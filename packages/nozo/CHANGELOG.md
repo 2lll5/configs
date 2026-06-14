@@ -2,14 +2,13 @@
 
 ## [1.7.1](https://github.com/nozomiishii/configs/compare/nozo-v1.7.0...nozo-v1.7.1) (2026-06-14)
 
-
 ### Miscellaneous
 
-* add lint troubleshooting guide reference to nozo eslint config ([#2413](https://github.com/nozomiishii/configs/issues/2413)) ([5653af6](https://github.com/nozomiishii/configs/commit/5653af664169b3c91aba041123ebec540611c506))
-* update dependency @clack/prompts to v1.5.1 ([#2408](https://github.com/nozomiishii/configs/issues/2408)) ([3236530](https://github.com/nozomiishii/configs/commit/3236530bc4da51852a491ca00662a6020814cccb))
-* update dependency tsdown to v0.22.2 ([#2414](https://github.com/nozomiishii/configs/issues/2414)) ([8345397](https://github.com/nozomiishii/configs/commit/8345397124bec027c9fa96545541906c597b03fb))
-* update pnpm to v11.5.2 ([#2417](https://github.com/nozomiishii/configs/issues/2417)) ([0948c44](https://github.com/nozomiishii/configs/commit/0948c44dffd4a35ebaf66e1c07672eed6dde701a))
-* update pnpm to v11.5.3 ([#2431](https://github.com/nozomiishii/configs/issues/2431)) ([d7be503](https://github.com/nozomiishii/configs/commit/d7be503ccce8218adcf67a5702f3e4ee080cb3af))
+- add lint troubleshooting guide reference to nozo eslint config ([#2413](https://github.com/nozomiishii/configs/issues/2413)) ([5653af6](https://github.com/nozomiishii/configs/commit/5653af664169b3c91aba041123ebec540611c506))
+- update dependency @clack/prompts to v1.5.1 ([#2408](https://github.com/nozomiishii/configs/issues/2408)) ([3236530](https://github.com/nozomiishii/configs/commit/3236530bc4da51852a491ca00662a6020814cccb))
+- update dependency tsdown to v0.22.2 ([#2414](https://github.com/nozomiishii/configs/issues/2414)) ([8345397](https://github.com/nozomiishii/configs/commit/8345397124bec027c9fa96545541906c597b03fb))
+- update pnpm to v11.5.2 ([#2417](https://github.com/nozomiishii/configs/issues/2417)) ([0948c44](https://github.com/nozomiishii/configs/commit/0948c44dffd4a35ebaf66e1c07672eed6dde701a))
+- update pnpm to v11.5.3 ([#2431](https://github.com/nozomiishii/configs/issues/2431)) ([d7be503](https://github.com/nozomiishii/configs/commit/d7be503ccce8218adcf67a5702f3e4ee080cb3af))
 
 ## [1.7.0](https://github.com/nozomiishii/configs/compare/nozo-v1.6.0...nozo-v1.7.0) (2026-06-07)
 
